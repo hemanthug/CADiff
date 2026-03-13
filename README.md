@@ -1,6 +1,6 @@
-# CAD Diff MVP
+# CADiff MVP
 
-CAD Diff is a production-minded MVP web application for comparing two STEP part revisions and producing an engineer-friendly geometric change report.
+CADiff is a production-minded MVP web application for comparing two STEP part revisions and producing an engineer-friendly geometric change report.
 
 ## Stack
 
